@@ -1,7 +1,7 @@
 # CIPqdt_Master
-Plugin para o X-Plane, voltado para o curso de MS do CIPqdt GPB
+Versão atualizada do plugin para o X-Plane, voltado para o curso de MS do CIPqdt GPB, criado originalmente em 2009, no CIAvEx.
 
-Testado e compilado com Visual Studio 2019.
+Testado e compilado com Visual Studio 2019 e X-Plane 11.
 
 # Instalação
 
